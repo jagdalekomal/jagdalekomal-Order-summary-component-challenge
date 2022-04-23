@@ -1,0 +1,112 @@
+body{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 400;
+    
+}
+.image1{
+    padding: 0;
+    margin: 0px;
+    width: 100%;
+    border-radius: 5px 5px 0 0; 
+    
+    
+}
+h1{
+    padding: 20px 0 5px 0;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900;
+}
+
+.intro{
+    width: 60%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: hsl(224, 23%, 55%);
+    
+}
+
+.card {
+    margin: auto;
+    padding: 0px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
+    border-radius: 5px; 
+    width: 36.9%;
+    
+  }
+  .card:hover {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.2);
+  }
+
+  .container{
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 5px; 
+    width: 70%;
+    margin: auto;
+    padding: 5px 10px 0 0; 
+    margin-bottom: 20px;
+    
+  }
+ .image2{
+     padding: 0 10px 0 10px;
+     
+ }
+ .plan{
+     margin: 0;;
+    padding: 0 90px 5px 0px;
+    
+
+ }
+ .price{
+    padding: 0 95px 0 0px;
+    margin: 0;
+    color:hsl(224, 23%, 55%);
+    
+ }
+
+ .btn {
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    background: hsl(245, 75%, 52%);
+    padding: 10px 90px 10px 90px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #80b8f5;
+    text-decoration: none;
+  }
+
+  .btn1 {
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: hsl(224, 23%, 55%);;
+    font-size: 16px;
+    background: white;
+    padding: 11px 40px 10px 40px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: hsl(225, 100%, 98%);
+    text-decoration: none;
+  }
+  .cancle-btn{
+    padding: 30px 0 30px 0;
+  }
+
+  
+  
+
+  
